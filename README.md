@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**rraaffly/rraaffly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 align="center">Hi there 👋</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<br/>
+<p align="center">
+    <a href="https://github.com/rraaffly">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muhammad Rafly Rafsanjani" src="https://github-readme-streak-stats.herokuapp.com?user=rraaffly&hide_border=true"/>
+    </a>
+</p>
